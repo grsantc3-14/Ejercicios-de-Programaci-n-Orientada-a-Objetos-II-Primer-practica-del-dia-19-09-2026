@@ -1,0 +1,4 @@
+uaz\isw\domain\Persona.class
+uaz\isw\client\ClientePersonaService.class
+uaz\isw\service\PersonaServiceImpl.class
+uaz\isw\service\PersonaServiceRemote.class
